@@ -6,4 +6,6 @@ Thanks to the logging function you can also see the startup type of the service 
 
 It can automatically detect services with a name ending like _123abc2 and disable them in an effective way (you cannot do this with serviwin or through the services.msc interface)
 
+You need to have TrustedInstaller privileges to be able to turn off some services running on Windows. For this I recommend using this program with programs like PowerRun or NSudo.
+
 IMPORTANT NOTE: Unconsciously disabling services running on Windows may cause your operating system to become unusable. Please use it consciously and do your own research before using it. You are fully responsible for any problems that may occur on your computer.
